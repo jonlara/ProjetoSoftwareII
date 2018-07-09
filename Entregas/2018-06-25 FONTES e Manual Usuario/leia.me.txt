@@ -1,1 +1,2 @@
- 
+ -> Necessário baixar e descompactar o framework OpenXava versão 5.8.1
+-> Segue classes de modelo do projeto, é necessário adicionar como projeto após descompactar o framework.
