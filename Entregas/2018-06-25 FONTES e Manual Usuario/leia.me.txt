@@ -1,2 +1,6 @@
  -> Necessário baixar e descompactar o framework OpenXava versão 5.8.1
 -> Segue classes de modelo do projeto, é necessário adicionar como projeto após descompactar o framework.
+-> Para ter os fontes dentro de um projeto OpenXava:
+   1) Crie um projeto na sua IDE;
+   2) Execute o projeto "OpenXavaTemplate" -> "CreateNewProject"
+   3) Informe o nome do projeto criado na janela de entrada que é solicitada.
